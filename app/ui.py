@@ -2,7 +2,7 @@ import streamlit as st
 import requests
 
 # API_URL = "http://127.0.0.1:8000/chat"
-API_URL ="https://shl-assessment-recommender-8j80.onrender.com/chat"
+API_URL ="https://shl-assessment-recommender-8j80.onrender.com/"
 
 st.set_page_config(
     page_title="SHL Assessment Recommender",
